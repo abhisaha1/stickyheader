@@ -2,6 +2,9 @@
 
 You might have noticed that many websites prefer to keep the headers of their website visible while scrolling, so that the navigation menu is always accessible. This can be achieved by making the position of the header, fixed. But this doesn't look elegant and trendy. jQuery Animated Sticky Header solves this problem with ease. It also adds animation to give a nice effect when you scroll, maintaining the rich effect of your website.
 
+## Demo
+http://ajaxtown.github.io/stickyheader/dist/
+
 ## Basic HTML Markup:
 ```html
 <html>  
