@@ -8,10 +8,6 @@ You might have noticed that many websites prefer to keep the headers of their we
 
     <head>
     
-        <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-        <script type="text/javascript" src="jquery.stickyhead.js"></script>
-        <script type="text/javascript" src="jquery.easing.js"></script>
-
         <style type="text/css">
             
             #header {
@@ -45,8 +41,13 @@ You might have noticed that many websites prefer to keep the headers of their we
             
             
         </div>
-    
+    	
     </body>
+    
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="jquery.stickyhead.min.js"></script>
+<script type="text/javascript" src="jquery.easing.js"></script>
+
 </html>
 ```
 
@@ -67,3 +68,4 @@ You might have noticed that many websites prefer to keep the headers of their we
 	
 </script>
 ```
+A new class stickyhead gets added automatically in the header element. So you can customize your Sticky Header using CSS. A list of easing effects can be found here: http://jqueryui.com/resources/demos/effect/easing.html
